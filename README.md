@@ -1,5 +1,4 @@
-# SDML
-Senior Design LSTM models for Infectious Disease Risk Predictor
+# Senior Design LSTM models for Infectious Disease Risk Predictor
 
 funcs.py includes all functions necessary in the generation of LSTM models
 
