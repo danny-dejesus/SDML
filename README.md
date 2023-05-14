@@ -14,3 +14,5 @@ runMl.py
 - then trains each model
 - grabs next predictions
 - stores this information into .csv files to then be parsed
+
+To run make sure requirements are installed
