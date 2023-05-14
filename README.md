@@ -16,3 +16,10 @@ runMl.py
 - stores this information into .csv files to then be parsed
 
 To run make sure requirements are installed
+- pandas
+- numpy
+- sklearn
+- tensorflow
+- matplotlib
+- statsmodels
+- mysql.connector
